@@ -2,10 +2,6 @@ import React from "react";
 import Entry from "./Entry"
 import emojipedia from "../emojipedia";
 
-//3. Map through the emojipedia array and render the Entry component
-
-
-
 function App() {
   return (
     <div>
